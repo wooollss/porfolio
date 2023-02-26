@@ -1,2 +1,2 @@
-# porfolio
-pagina personal web developer
+# LUIS ALFREDO PALOMINO
+desarrollador web (front-end)
